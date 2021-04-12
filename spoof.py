@@ -1,6 +1,3 @@
-# h0nda
-# 2021-04-11
-
 from http.client import HTTPResponse
 from urllib.parse import urlsplit, unquote, quote
 import socket
